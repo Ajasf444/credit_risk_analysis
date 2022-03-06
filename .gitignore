@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Challenge
+Module-17*
+*starter_code
+
 # Distribution / packaging
 .Python
 build/
